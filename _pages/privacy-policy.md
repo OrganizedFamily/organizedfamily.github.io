@@ -4,6 +4,7 @@ title: Privacy Policy
 date: 2016-02-18T16:15:23+00:00
 author: Dave
 layout: page
+permalink: /privacy-policy/
 guid: http://organizedfamily.co/?page_id=193
 interface_sidebarlayout:
   - default

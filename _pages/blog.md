@@ -3,6 +3,7 @@ id: 396
 title: Podcast Episodes
 date: 2016-09-15T20:22:15+00:00
 author: Dave
+permalink: /blog/
 layout: page
 guid: http://organizedfamily.co/blog
 ---

@@ -4,6 +4,7 @@ title: Subscribed
 date: 2015-11-01T09:56:59+00:00
 author: Dave
 layout: page
+permalink: /subscribed/
 guid: http://organizedfamily.co/?page_id=91
 sharing_disabled:
   - "1"

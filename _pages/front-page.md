@@ -2,6 +2,7 @@
 id: 394
 title: Front Page
 date: 2016-09-15T20:22:15+00:00
+permalink: /front-page/
 author: Dave
 layout: page
 guid: http://organizedfamily.co/front-page

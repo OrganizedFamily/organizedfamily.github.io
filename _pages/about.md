@@ -2,6 +2,7 @@
 id: 293
 title: About
 date: 2016-05-19T09:02:52+00:00
+permalink: /about/
 author: Dave
 layout: page
 guid: http://organizedfamily.co/?page_id=293

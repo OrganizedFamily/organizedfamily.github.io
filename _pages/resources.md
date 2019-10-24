@@ -4,6 +4,7 @@ title: Resources
 date: 2015-10-10T10:04:34+00:00
 author: Dave
 layout: page
+permalink: /resources/
 guid: http://organizedfamily.co/?page_id=43
 interface_sidebarlayout:
   - default
