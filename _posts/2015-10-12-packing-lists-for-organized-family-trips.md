@@ -3,7 +3,7 @@ id: 58
 title: '002: Home: Packing Lists for Organized Family Trips'
 date: 2015-10-12T04:00:35+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=58
 permalink: /58
 enclosure:

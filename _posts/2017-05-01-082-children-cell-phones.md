@@ -3,7 +3,7 @@ id: 508
 title: '082: Children: Cell Phones'
 date: 2017-05-01T04:00:42+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=508
 permalink: /508
 enclosure:

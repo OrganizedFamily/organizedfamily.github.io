@@ -3,7 +3,7 @@ id: 103
 title: '006: Personal: Personal Routines'
 date: 2015-11-09T04:00:52+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=103
 permalink: /103
 interface_sidebarlayout:

@@ -3,7 +3,7 @@ id: 111
 title: '007: Finance: Give Every Dollar A Job'
 date: 2015-11-16T04:00:09+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=111
 permalink: /111
 interface_sidebarlayout:

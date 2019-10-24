@@ -3,7 +3,7 @@ id: 417
 title: '056: Finances: Recap'
 date: 2016-10-24T04:00:19+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=417
 permalink: /417
 enclosure:

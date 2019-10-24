@@ -2,7 +2,7 @@
 id: 563
 title: Illdy Backup Settings
 date: 2017-10-09T00:20:45+00:00
-layout: page
+layout: single
 guid: http://organizedfamily.co/?page_id=563
 ---
 <div class='sfsi_Sicons' style='width: 100%; display: inline-block; vertical-align: middle; text-align:left'>

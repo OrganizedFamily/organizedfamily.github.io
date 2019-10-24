@@ -3,7 +3,7 @@ id: 324
 title: '039: Home: The 5 Love Languages'
 date: 2016-06-27T04:00:51+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=324
 permalink: /324
 enclosure:

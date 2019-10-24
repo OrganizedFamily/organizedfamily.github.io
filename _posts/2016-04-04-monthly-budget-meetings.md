@@ -3,7 +3,7 @@ id: 243
 title: '027: Finances: Monthly Budget Meetings'
 date: 2016-04-04T04:00:31+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=243
 permalink: /243
 enclosure:

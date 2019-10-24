@@ -3,7 +3,7 @@ id: 379
 title: '049: Personal: Mental Goals'
 date: 2016-09-05T04:00:52+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=379
 permalink: /379
 interface_sidebarlayout:

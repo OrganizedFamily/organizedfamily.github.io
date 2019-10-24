@@ -3,7 +3,7 @@ id: 475
 title: '074: Family: Taking Family Pictures &#8211; Planning'
 date: 2017-02-27T04:00:28+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=475
 permalink: /475
 enclosure:

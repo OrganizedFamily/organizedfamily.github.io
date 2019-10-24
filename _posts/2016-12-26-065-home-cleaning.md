@@ -3,7 +3,7 @@ id: 448
 title: '065: Home: Cleaning Up'
 date: 2016-12-26T04:00:34+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=448
 permalink: /448
 enclosure:

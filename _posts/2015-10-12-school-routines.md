@@ -3,7 +3,7 @@ id: 39
 title: '001: Kids: School Routines'
 date: 2015-10-12T03:59:33+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=39
 permalink: /39
 enclosure:

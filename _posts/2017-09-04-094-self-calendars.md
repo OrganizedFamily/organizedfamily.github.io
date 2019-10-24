@@ -3,7 +3,7 @@ id: 553
 title: '094: Self: Calendars'
 date: 2017-09-04T04:00:03+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=553
 permalink: /553
 enclosure:

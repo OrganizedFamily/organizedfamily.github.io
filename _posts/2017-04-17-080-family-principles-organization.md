@@ -3,7 +3,7 @@ id: 501
 title: '080: Family: Principles of Organization'
 date: 2017-04-17T04:00:13+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=501
 permalink: /501
 enclosure:

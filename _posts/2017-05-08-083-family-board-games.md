@@ -3,7 +3,7 @@ id: 510
 title: '083: Family: Board Games'
 date: 2017-05-08T04:00:30+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=510
 permalink: /510
 enclosure:

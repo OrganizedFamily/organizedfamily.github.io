@@ -3,7 +3,7 @@ id: 410
 title: '053: Personal: Recap'
 date: 2016-10-03T04:00:22+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=410
 permalink: /410
 enclosure:

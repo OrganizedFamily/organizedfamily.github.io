@@ -3,7 +3,7 @@ id: 428
 title: '059: Personal: Are you really the hero of the story?'
 date: 2016-11-14T04:00:32+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=428
 permalink: /428
 enclosure:

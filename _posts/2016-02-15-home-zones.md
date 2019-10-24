@@ -3,7 +3,7 @@ id: 188
 title: '020: Home: Zones'
 date: 2016-02-15T04:00:47+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=188
 permalink: /188
 interface_sidebarlayout:

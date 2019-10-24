@@ -3,7 +3,7 @@ id: 114
 title: '008: Home: Hosting the Holidays'
 date: 2015-11-23T04:00:39+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=114
 permalink: /114
 enclosure:

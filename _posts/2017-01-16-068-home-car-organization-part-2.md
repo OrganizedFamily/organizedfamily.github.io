@@ -3,7 +3,7 @@ id: 456
 title: '068: Home: Car Organization, Part 2'
 date: 2017-01-16T04:00:46+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=456
 permalink: /456
 enclosure:

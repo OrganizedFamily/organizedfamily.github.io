@@ -3,7 +3,7 @@ id: 412
 title: '054: Children: Recap'
 date: 2016-10-10T04:00:28+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=412
 permalink: /412
 enclosure:

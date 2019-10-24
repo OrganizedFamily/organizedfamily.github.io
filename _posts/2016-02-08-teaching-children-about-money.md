@@ -3,7 +3,7 @@ id: 182
 title: '019: Kids: Teaching Children About Money'
 date: 2016-02-08T04:00:28+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=182
 permalink: /182
 interface_sidebarlayout:

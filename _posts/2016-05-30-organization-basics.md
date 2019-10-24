@@ -3,7 +3,7 @@ id: 303
 title: '035: Bonus: Organization Basics'
 date: 2016-05-30T04:00:03+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=303
 permalink: /303
 enclosure:

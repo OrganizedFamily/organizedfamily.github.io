@@ -3,7 +3,7 @@ id: 530
 title: '089: Family: Giving Back'
 date: 2017-06-19T04:00:35+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=530
 permalink: /530
 enclosure:

@@ -3,7 +3,7 @@ id: 123
 title: '010: Home: Holiday Planning'
 date: 2015-12-07T04:00:42+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=123
 permalink: /123
 enclosure:

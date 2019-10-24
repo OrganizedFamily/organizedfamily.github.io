@@ -3,7 +3,7 @@ id: 550
 title: '093: Self: Personal Connections'
 date: 2017-08-28T04:00:40+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=550
 permalink: /550
 enclosure:

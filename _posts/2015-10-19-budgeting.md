@@ -3,7 +3,7 @@ id: 69
 title: '003: Finances: Budgeting'
 date: 2015-10-19T04:00:51+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=69
 permalink: /69
 enclosure:

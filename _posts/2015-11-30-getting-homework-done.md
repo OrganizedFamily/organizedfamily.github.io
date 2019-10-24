@@ -3,7 +3,7 @@ id: 118
 title: '009: Kids: Getting Homework Done'
 date: 2015-11-30T04:00:15+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=118
 permalink: /118
 enclosure:

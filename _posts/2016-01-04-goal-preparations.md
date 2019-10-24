@@ -3,7 +3,7 @@ id: 152
 title: '014: Personal: Goal Preparations'
 date: 2016-01-04T04:00:27+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=152
 permalink: /152
 interface_sidebarlayout:

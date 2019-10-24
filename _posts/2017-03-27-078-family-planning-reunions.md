@@ -3,7 +3,7 @@ id: 491
 title: '078: Family: Planning for Reunions'
 date: 2017-03-27T04:00:50+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=491
 permalink: /491
 enclosure:

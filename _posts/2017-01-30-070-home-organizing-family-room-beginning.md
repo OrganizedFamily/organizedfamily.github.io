@@ -3,7 +3,7 @@ id: 462
 title: '070: Home: Organizing the Family Room &#8211; Beginning'
 date: 2017-01-30T04:00:57+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=462
 permalink: /462
 enclosure:

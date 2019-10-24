@@ -3,7 +3,7 @@ id: 523
 title: '086: Home: Overcoming Organization Obstacles'
 date: 2017-05-29T04:00:59+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=523
 permalink: /523
 enclosure:

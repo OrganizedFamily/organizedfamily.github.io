@@ -3,7 +3,7 @@ id: 215
 title: '023: Finance: Batch Processing'
 date: 2016-03-07T04:00:42+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=215
 permalink: /215
 enclosure:

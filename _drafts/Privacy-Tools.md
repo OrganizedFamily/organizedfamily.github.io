@@ -3,7 +3,7 @@ id: 573
 title: Privacy Tools
 date: 2018-05-25T16:12:40+00:00
 author: Dave
-layout: page
+layout: single
 guid: http://organizedfamily.co/?page_id=573
 ---
 <div class="gdpr-framework-privacy-tools">

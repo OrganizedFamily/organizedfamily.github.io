@@ -3,7 +3,7 @@ id: 358
 title: '046: Home: Wills and Estate Planning'
 date: 2016-08-15T04:00:05+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=358
 permalink: /358
 enclosure:

@@ -3,7 +3,7 @@ id: 148
 title: '013: Kids: Rotating Toys'
 date: 2015-12-28T04:00:16+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=148
 permalink: /148
 interface_sidebarlayout:

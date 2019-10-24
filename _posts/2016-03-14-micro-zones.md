@@ -3,7 +3,7 @@ id: 224
 title: '024: Home: Micro-zones'
 date: 2016-03-14T04:00:13+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=224
 permalink: /224
 enclosure:

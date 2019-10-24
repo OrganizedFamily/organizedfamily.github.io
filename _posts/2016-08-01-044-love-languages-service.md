@@ -3,7 +3,7 @@ id: 351
 title: '044: Love Languages: Service'
 date: 2016-08-01T04:00:44+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=351
 permalink: /351
 enclosure:

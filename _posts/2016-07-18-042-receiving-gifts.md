@@ -3,7 +3,7 @@ id: 342
 title: '042: Love Languages: Receiving Gifts'
 date: 2016-07-18T04:00:00+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=342
 permalink: /342
 enclosure:

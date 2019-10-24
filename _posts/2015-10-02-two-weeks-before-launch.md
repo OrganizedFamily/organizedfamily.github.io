@@ -3,7 +3,7 @@ id: 26
 title: Two Weeks Before Launch
 date: 2015-10-02T07:00:41+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=26
 permalink: /26
 interface_sidebarlayout:

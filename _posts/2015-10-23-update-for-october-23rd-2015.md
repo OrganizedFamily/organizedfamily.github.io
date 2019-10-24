@@ -3,7 +3,7 @@ id: 78
 title: Update for October 23rd, 2015
 date: 2015-10-23T23:25:03+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=78
 permalink: /78
 interface_sidebarlayout:

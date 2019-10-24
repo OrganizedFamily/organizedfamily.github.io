@@ -3,7 +3,7 @@ id: 175
 title: '018: Personal: Accomplishing Goals'
 date: 2016-02-01T04:00:41+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=175
 permalink: /175
 enclosure:

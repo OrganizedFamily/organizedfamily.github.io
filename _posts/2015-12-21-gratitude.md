@@ -3,7 +3,7 @@ id: 138
 title: '012: Personal: Gratitude'
 date: 2015-12-21T04:00:59+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=138
 permalink: /138
 enclosure:

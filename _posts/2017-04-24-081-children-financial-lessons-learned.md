@@ -3,7 +3,7 @@ id: 504
 title: '081: Children: Financial Lessons Learned'
 date: 2017-04-24T22:08:35+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=504
 permalink: /504
 enclosure:

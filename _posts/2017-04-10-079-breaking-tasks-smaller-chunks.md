@@ -3,7 +3,7 @@ id: 496
 title: '079: Breaking Tasks Into Smaller Chunks'
 date: 2017-04-10T04:00:03+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=496
 permalink: /496
 enclosure:

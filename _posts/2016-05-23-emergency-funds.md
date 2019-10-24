@@ -3,7 +3,7 @@ id: 299
 title: '034: Finances: Emergency Funds'
 date: 2016-05-23T04:00:27+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=299
 permalink: /299
 enclosure:

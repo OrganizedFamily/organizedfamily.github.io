@@ -3,7 +3,7 @@ id: 525
 title: '087: Finances: Automating Your Finances'
 date: 2017-06-05T04:00:53+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=525
 permalink: /525
 enclosure:

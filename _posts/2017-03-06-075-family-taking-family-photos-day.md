@@ -3,7 +3,7 @@ id: 477
 title: '075: Family: Taking Family Photos &#8211; The Day Of'
 date: 2017-03-06T04:00:28+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=477
 permalink: /477
 enclosure:

@@ -3,7 +3,7 @@ id: 306
 title: '036: Personal: Mid-Year Review'
 date: 2016-06-06T04:00:22+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=306
 permalink: /306
 interface_sidebarlayout:

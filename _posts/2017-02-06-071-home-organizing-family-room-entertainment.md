@@ -3,7 +3,7 @@ id: 466
 title: '071: Home: Organizing The Family Room &#8211; Entertainment'
 date: 2017-02-06T04:00:50+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=466
 permalink: /466
 enclosure:

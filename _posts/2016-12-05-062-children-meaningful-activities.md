@@ -3,7 +3,7 @@ id: 437
 title: '062: Children: Meaningful Activities'
 date: 2016-12-05T04:00:59+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=437
 permalink: /437
 enclosure:

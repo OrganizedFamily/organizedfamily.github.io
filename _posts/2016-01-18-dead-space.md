@@ -3,7 +3,7 @@ id: 159
 title: '016: Home: Dead Space'
 date: 2016-01-18T04:00:19+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=159
 permalink: /159
 interface_sidebarlayout:

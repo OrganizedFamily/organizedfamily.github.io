@@ -3,7 +3,7 @@ id: 383
 title: '050: Children: Fun Family Recreation'
 date: 2016-09-12T04:00:06+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=383
 permalink: /383
 enclosure:

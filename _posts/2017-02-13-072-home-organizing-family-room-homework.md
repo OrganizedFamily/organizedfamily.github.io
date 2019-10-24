@@ -3,7 +3,7 @@ id: 468
 title: '072: Home: Organizing The Family Room &#8211; Homework'
 date: 2017-02-13T04:00:32+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=468
 permalink: /468
 enclosure:

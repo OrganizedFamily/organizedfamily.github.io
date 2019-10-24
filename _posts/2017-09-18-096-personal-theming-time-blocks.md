@@ -3,7 +3,7 @@ id: 559
 title: '096: Personal: Theming Time Blocks'
 date: 2017-09-18T04:00:24+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=559
 permalink: /559
 enclosure:

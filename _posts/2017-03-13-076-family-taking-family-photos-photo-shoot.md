@@ -3,7 +3,7 @@ id: 479
 title: '076: Family: Taking Family Photos &#8211; After The Photo Shoot'
 date: 2017-03-13T04:00:35+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=479
 permalink: /479
 enclosure:

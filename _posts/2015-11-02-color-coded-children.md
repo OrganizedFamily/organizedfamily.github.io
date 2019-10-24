@@ -3,7 +3,7 @@ id: 84
 title: '005: Kids: Color Coded Children'
 date: 2015-11-02T04:00:12+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=84
 permalink: /84
 enclosure:

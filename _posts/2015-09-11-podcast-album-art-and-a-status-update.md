@@ -3,7 +3,7 @@ id: 14
 title: Podcast Album Art and a Status Update
 date: 2015-09-11T05:00:13+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=14
 permalink: /14
 interface_sidebarlayout:

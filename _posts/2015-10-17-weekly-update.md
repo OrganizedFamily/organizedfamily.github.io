@@ -3,7 +3,7 @@ id: 65
 title: Weekly Update
 date: 2015-10-17T23:49:22+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=65
 permalink: /65
 interface_sidebarlayout:

@@ -3,7 +3,7 @@ id: 574
 title: Privacy Policy
 date: 2018-05-25T16:13:31+00:00
 author: Dave
-layout: page
+layout: single
 guid: http://organizedfamily.co/?page_id=574
 ---
 <div class='sfsi_Sicons' style='width: 100%; display: inline-block; vertical-align: middle; text-align:left'>

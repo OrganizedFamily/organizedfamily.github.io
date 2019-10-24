@@ -3,7 +3,7 @@ id: 36
 title: '000: Introduction'
 date: 2015-10-08T19:50:49+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=36
 permalink: /36
 enclosure:

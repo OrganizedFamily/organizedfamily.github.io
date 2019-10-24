@@ -3,7 +3,7 @@ id: 266
 title: '030: Personal: Recharging'
 date: 2016-04-25T04:00:16+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=266
 permalink: /266
 enclosure:

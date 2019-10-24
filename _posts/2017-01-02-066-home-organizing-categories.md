@@ -3,7 +3,7 @@ id: 450
 title: '066: Home: Organizing Categories'
 date: 2017-01-02T04:00:10+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=450
 permalink: /450
 enclosure:

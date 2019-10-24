@@ -3,7 +3,7 @@ id: 578
 title: Auto Draft
 date: 2019-10-23T16:09:42+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=578
 permalink: /?p=578
 ---

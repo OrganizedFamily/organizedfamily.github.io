@@ -3,7 +3,7 @@ id: 1
 title: Getting Ready for Launch
 date: 2015-08-24T21:11:55+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=1
 permalink: /1
 interface_sidebarlayout:

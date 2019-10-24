@@ -3,7 +3,7 @@ id: 132
 title: '011: Finances: Gift Buying'
 date: 2015-12-14T04:00:46+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=132
 permalink: /132
 interface_sidebarlayout:

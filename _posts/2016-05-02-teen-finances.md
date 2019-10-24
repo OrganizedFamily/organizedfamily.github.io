@@ -3,7 +3,7 @@ id: 273
 title: '031: Kids: Teen Finances'
 date: 2016-05-02T04:00:09+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=273
 permalink: /273
 enclosure:

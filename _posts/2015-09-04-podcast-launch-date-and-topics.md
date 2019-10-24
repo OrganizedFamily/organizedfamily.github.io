@@ -3,7 +3,7 @@ id: 11
 title: Podcast Launch Date and Topics
 date: 2015-09-04T18:08:27+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=11
 permalink: /11
 interface_sidebarlayout:

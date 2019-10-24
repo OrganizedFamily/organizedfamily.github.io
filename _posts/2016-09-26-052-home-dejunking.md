@@ -3,7 +3,7 @@ id: 406
 title: '052: Home: Dejunking'
 date: 2016-09-26T04:00:49+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=406
 permalink: /406
 enclosure:

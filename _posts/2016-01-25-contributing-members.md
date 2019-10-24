@@ -3,7 +3,7 @@ id: 169
 title: '017: Kids: Contributing Members'
 date: 2016-01-25T04:00:32+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=169
 permalink: /169
 enclosure:

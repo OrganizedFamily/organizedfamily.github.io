@@ -3,7 +3,7 @@ id: 288
 title: '033: Kids: Teaching Principles'
 date: 2016-05-16T04:00:10+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=288
 permalink: /288
 enclosure:

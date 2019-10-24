@@ -3,7 +3,7 @@ id: 368
 title: '047: Home: Family Meetings'
 date: 2016-08-22T04:00:45+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=368
 permalink: /368
 enclosure:

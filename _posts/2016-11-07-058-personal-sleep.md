@@ -3,7 +3,7 @@ id: 425
 title: '058: Personal: Sleep'
 date: 2016-11-07T04:00:49+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=425
 permalink: /425
 enclosure:

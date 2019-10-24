@@ -3,7 +3,7 @@ id: 454
 title: '067: Home: Car Organization, Part 1'
 date: 2017-01-09T04:00:51+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=454
 permalink: /454
 enclosure:

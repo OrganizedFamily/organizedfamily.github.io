@@ -3,7 +3,7 @@ id: 528
 title: '088: Finances: Estate Planning'
 date: 2017-06-12T04:00:46+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=528
 permalink: /528
 enclosure:

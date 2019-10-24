@@ -3,7 +3,7 @@ id: 238
 title: '026: Personal: Tips and Tricks for More Organizing'
 date: 2016-03-28T04:00:50+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=238
 permalink: /238
 enclosure:

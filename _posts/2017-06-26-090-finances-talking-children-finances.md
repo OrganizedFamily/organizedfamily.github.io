@@ -3,7 +3,7 @@ id: 536
 title: '090: Finances: Talking With Children About Finances'
 date: 2017-06-26T04:00:08+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=536
 permalink: /536
 enclosure:

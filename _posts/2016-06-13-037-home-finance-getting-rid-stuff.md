@@ -3,7 +3,7 @@ id: 315
 title: '037: Home: Finance: Getting Rid of Stuff'
 date: 2016-06-13T04:00:38+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=315
 permalink: /315
 enclosure:

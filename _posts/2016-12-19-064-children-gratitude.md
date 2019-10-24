@@ -3,7 +3,7 @@ id: 445
 title: '064: Children: Gratitude'
 date: 2016-12-19T04:00:07+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=445
 permalink: /445
 enclosure:

@@ -3,7 +3,7 @@ id: 264
 title: Google Play Music
 date: 2016-04-18T14:48:32+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=264
 permalink: /264
 interface_sidebarlayout:

@@ -3,7 +3,7 @@ id: 565
 title: '097: Children: Flexible Thinking'
 date: 2017-10-09T04:00:09+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=565
 permalink: /565
 enclosure:

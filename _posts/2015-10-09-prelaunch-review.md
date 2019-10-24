@@ -3,7 +3,7 @@ id: 41
 title: Our Final Prelaunch Review
 date: 2015-10-09T08:00:04+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=41
 permalink: /41
 interface_sidebarlayout:

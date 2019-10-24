@@ -3,7 +3,7 @@ id: 515
 title: '084: Home: Challenges To Organizing'
 date: 2017-05-15T04:00:42+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=515
 permalink: /515
 enclosure:

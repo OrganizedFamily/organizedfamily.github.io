@@ -4,7 +4,7 @@ title: Podcast Episodes
 date: 2016-09-15T20:22:15+00:00
 author: Dave
 permalink: /blog/
-layout: page
+layout: single
 guid: http://organizedfamily.co/blog
 ---
 <div class='sfsi_Sicons' style='width: 100%; display: inline-block; vertical-align: middle; text-align:left'>

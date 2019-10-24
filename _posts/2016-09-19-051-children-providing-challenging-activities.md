@@ -3,7 +3,7 @@ id: 402
 title: '051: Children: Providing Challenging Activities'
 date: 2016-09-19T04:00:21+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=402
 permalink: /402
 enclosure:

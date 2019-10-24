@@ -3,7 +3,7 @@ id: 208
 title: '022: Personal: The Pomodoro Technique'
 date: 2016-02-29T04:00:08+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=208
 permalink: /208
 enclosure:

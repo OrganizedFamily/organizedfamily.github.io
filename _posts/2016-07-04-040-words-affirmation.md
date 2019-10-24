@@ -3,7 +3,7 @@ id: 331
 title: '040: Love Languages: Words of Affirmation'
 date: 2016-07-04T04:00:19+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=331
 permalink: /331
 interface_sidebarlayout:

@@ -3,7 +3,7 @@ id: 546
 title: '092: Home: Meal Sharing'
 date: 2017-08-21T04:00:40+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=546
 permalink: /546
 enclosure:

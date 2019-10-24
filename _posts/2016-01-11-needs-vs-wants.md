@@ -3,7 +3,7 @@ id: 154
 title: '015: Finances: Needs Vs Wants'
 date: 2016-01-11T04:00:35+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=154
 permalink: /154
 enclosure:

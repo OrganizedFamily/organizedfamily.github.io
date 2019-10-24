@@ -3,7 +3,7 @@ id: 434
 title: '061: Personal: Knowing Your Limits'
 date: 2016-11-28T04:00:32+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=434
 permalink: /434
 enclosure:

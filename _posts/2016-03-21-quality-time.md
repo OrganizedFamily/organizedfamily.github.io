@@ -3,7 +3,7 @@ id: 232
 title: '025: Kids: Quality Time'
 date: 2016-03-21T04:00:24+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=232
 permalink: /232
 interface_sidebarlayout:

@@ -3,7 +3,7 @@ id: 541
 title: '091: Home: Warranties'
 date: 2017-08-07T04:00:44+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=541
 permalink: /541
 enclosure:

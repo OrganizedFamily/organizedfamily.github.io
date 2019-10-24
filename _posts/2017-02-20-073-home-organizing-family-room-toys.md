@@ -3,7 +3,7 @@ id: 470
 title: '073: Home: Organizing The Family Room &#8211; Toys'
 date: 2017-02-20T14:55:29+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=470
 permalink: /470
 enclosure:

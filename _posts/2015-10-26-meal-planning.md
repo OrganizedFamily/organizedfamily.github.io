@@ -3,7 +3,7 @@ id: 80
 title: '004: Home: Meal Planning'
 date: 2015-10-26T04:00:43+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=80
 permalink: /80
 interface_sidebarlayout:

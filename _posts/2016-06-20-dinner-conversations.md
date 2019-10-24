@@ -3,7 +3,7 @@ id: 321
 title: '038: Family: Dinner Conversations'
 date: 2016-06-20T04:00:07+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=321
 permalink: /321
 enclosure:

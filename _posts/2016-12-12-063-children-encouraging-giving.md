@@ -3,7 +3,7 @@ id: 441
 title: '063: Children: Encouraging Giving'
 date: 2016-12-12T04:00:18+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=441
 permalink: /441
 enclosure:

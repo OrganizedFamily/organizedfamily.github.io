@@ -4,7 +4,7 @@ title: About
 date: 2016-05-19T09:02:52+00:00
 permalink: /about/
 author: Dave
-layout: page
+layout: single
 guid: http://organizedfamily.co/?page_id=293
 interface_sidebarlayout:
   - default

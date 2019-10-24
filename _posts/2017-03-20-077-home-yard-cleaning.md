@@ -3,7 +3,7 @@ id: 486
 title: '077: Home: Yard Cleaning'
 date: 2017-03-20T04:00:18+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=486
 permalink: /486
 enclosure:

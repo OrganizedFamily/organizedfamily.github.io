@@ -3,7 +3,7 @@ id: 422
 title: '057: Family Celebrations'
 date: 2016-10-31T04:00:17+00:00
 author: Dave
-layout: post
+layout: single
 guid: http://organizedfamily.co/?p=422
 permalink: /422
 enclosure:
