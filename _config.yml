@@ -22,6 +22,20 @@ github_username: OrganizedFamily
 minimal_mistakes_skin: dirt
 search: true
 
+podcast_url: http://www.organizedfamily.co/
+podcast_album_art: /images/organized_family_podcast.jpg
+podcast_title: Organized Family
+podcast_owner: Dave and Amy Mitchell
+podcast_email: dave@organizedfamily.co
+podcast_category: Kids &amp; Family
+podcast_subcategory_one: Education
+podcast_subcategory_two: Technology
+podcast_explicit: "clean"
+podcast_author: Dave and Amy Mitchell
+podcast_description: Helping bring order to your chaos
+podcast_summary: On the Organized Family podcast, the Mitchells discuss what they do in their home to help manage children's time, the space in their home, finances and their personal time so they can contribute to their community and their own happiness.&lt;br /&gt;&lt;br /&gt; Tune in each week as the Mitchells discuss one of four core topics - family finances, personal development, home management or family organization. &lt;br /&gt;&lt;br /&gt; While they will freely admit they don't have it all figured out, they will share personal stories and insights on how being organized has helped them overcome financial setbacks, contributed to well-balanced, responsible children, helped increase communication among all the family members and helped create a happy home.
+podcast_subtitle: Helping organize your home so you can enjoy your life
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
