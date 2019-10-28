@@ -6,12 +6,11 @@ author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=58
 permalink: /58
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/002-packing_lists.mp3
-    17967418
-    audio/mpeg
-    a:2:{s:8:"duration";s:7:"0:16:30";s:8:"subtitle";s:58:"The Mitchells share how to pack for organized family trips";}
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/002-packing_lists.mp3
+  length: 17967418
+  mime_type: audio/mpeg
+  duration: a:2:{s:8:"duration";s:7:"0:16:30";s:8:"subtitle";s:58:"The Mitchells share how to pack for organized family trips";}
 interface_sidebarlayout:
   - default
 categories:

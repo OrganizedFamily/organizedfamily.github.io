@@ -6,12 +6,11 @@ author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=39
 permalink: /39
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/001-school_routines.mp3
-    21681320
-    audio/mpeg
-    a:1:{s:8:"subtitle";s:40:"Tips on organizing daily school routines";}
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/001-school_routines.mp3
+  length: 21681320
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"subtitle";s:40:"Tips on organizing daily school routines";}
 interface_sidebarlayout:
   - default
 categories:

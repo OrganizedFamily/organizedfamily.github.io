@@ -6,12 +6,11 @@ author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=553
 permalink: /553
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/094-calendar.mp3
-    19637873
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:18:14";}
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/094-calendar.mp3
+  length: 19637873
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:18:14";}
 categories:
   - Personal
 ---

@@ -25,6 +25,7 @@ search: true
 podcast_url: http://www.organizedfamily.co/
 podcast_album_art: /images/organized_family_podcast.jpg
 podcast_title: Organized Family
+podcast_copyright: (c) David and Amy Mitchell
 podcast_owner: Dave and Amy Mitchell
 podcast_email: dave@organizedfamily.co
 podcast_category: Kids &amp; Family
@@ -44,6 +45,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 8 # amount of posts to show
 paginate_path: /page:num/
+lang: en-US
 timezone: America/Denver # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:

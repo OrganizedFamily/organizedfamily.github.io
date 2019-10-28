@@ -6,14 +6,14 @@ author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=559
 permalink: /559
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/096-theming_your_days.mp3
-    15153589
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:13:34";}
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/096-theming_your_days.mp3
+  length: 15153589
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:13:34";}
 categories:
   - Personal
+  - podcast
 ---
 This week we discuss why theming is, why it is helpful and different ways to apply it to months, weeks and days and different theme ideas for various time blocks.
 

@@ -6,12 +6,11 @@ author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=36
 permalink: /36
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/000-introduction.mp3
-    13981412
-    audio/mpeg
-    a:1:{s:8:"subtitle";s:79:"An introduction to the Mitchell's, your hosts for the Organized Family Podcast.";}
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/000-introduction.mp3
+  length: 13981412
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"subtitle";s:79:"An introduction to the Mitchell's, your hosts for the Organized Family Podcast.";}
 interface_sidebarlayout:
   - default
 categories:

@@ -6,11 +6,10 @@ author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=374
 permalink: /374
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/048-organizing_chores_through_family_meetings.mp3
-    16802856
-    audio/mpeg
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/048-organizing_chores_through_family_meetings.mp3
+  length: 16802856
+  mime_type: audio/mpeg
 interface_sidebarlayout:
   - default
 image: /wp-content/uploads/2016/01/chores.jpg

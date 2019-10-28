@@ -6,14 +6,14 @@ author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=565
 permalink: /565
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/097-flexible_thoughts.mp3
-    14313491
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:12:41";}
+podcast: 
+  link: http://traffic.libsyn.com/organizedfamily/097-flexible_thoughts.mp3
+  length: 14313491
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:12:41";}
 categories:
   - Children
+  - podcast
 ---
 This week we talk about a technique positive people have that makes them resilient when changes happen.
 
