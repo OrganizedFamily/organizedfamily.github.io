@@ -10,7 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/000-introduction.mp3
   length: 13981412
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"subtitle";s:79:"An introduction to the Mitchell's, your hosts for the Organized Family Podcast.";}
+  duration: 
 interface_sidebarlayout:
   - default
 categories:
