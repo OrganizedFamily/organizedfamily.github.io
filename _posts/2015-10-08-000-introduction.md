@@ -5,7 +5,7 @@ date: 2015-10-08T19:50:49+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=36
-permalink: /36
+permalink: /episode/000
 podcast:
   link: http://traffic.libsyn.com/organizedfamily/000-introduction.mp3
   length: 13981412

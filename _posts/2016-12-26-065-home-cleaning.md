@@ -5,15 +5,15 @@ date: 2016-12-26T04:00:34+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=448
-permalink: /448
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/065-cleaning_up.mp3
-    2413213
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:02:31";}
+permalink: /episode/065
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/065-cleaning_up.mp3
+  length: 2413213
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:02:31";}
 categories:
   - Home
+  - podcast
 ---
 Because of the holidays we just have a short tip for all our listeners.
 

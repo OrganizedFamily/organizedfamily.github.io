@@ -5,14 +5,14 @@ date: 2016-09-19T04:00:21+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=402
-permalink: /402
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/051-challenging_activities.mp3
-    15066654
-    audio/mpeg
+permalink: /episode/051
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/051-challenging_activities.mp3
+  length: 15066654
+  mime_type: audio/mpeg
 categories:
   - Children
+  - podcast
 ---
 ## Topics
 

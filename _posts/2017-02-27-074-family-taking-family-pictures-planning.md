@@ -5,14 +5,14 @@ date: 2017-02-27T04:00:28+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=475
-permalink: /475
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/074-before_the_family_photo.mp3
-    11741788
-    audio/mpeg
+permalink: /episode/074
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/074-before_the_family_photo.mp3
+  length: 11741788
+  mime_type: audio/mpeg
 categories:
   - Children
+  - podcast
 ---
 This week we discuss how to plan for taking family pictures.
 

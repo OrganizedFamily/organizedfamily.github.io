@@ -1,15 +1,18 @@
 ---
 id: 331
-title: '040: Love Languages: Words of Affirmation'
+title: '040: Home: Love Languages: Words of Affirmation'
 date: 2016-07-04T04:00:19+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=331
-permalink: /331
-interface_sidebarlayout:
-  - default
+permalink: /episode/040
+podcast: 
+  link: http://traffic.libsyn.com/organizedfamily/040-words_of_affirmation.mp3
+  length: 7839721
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 ## Topics
 

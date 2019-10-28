@@ -5,14 +5,14 @@ date: 2016-09-26T04:00:49+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=406
-permalink: /406
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/052-dejunking.mp3
-    14242856
-    audio/mpeg
+permalink: /episode/052
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/052-dejunking.mp3
+  length: 14242856
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 # 52: Home: Dejunking
 

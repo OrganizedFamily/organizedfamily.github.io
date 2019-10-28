@@ -5,14 +5,14 @@ date: 2017-05-08T04:00:30+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=510
-permalink: /510
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/083-board_games.mp3
-    12866098
-    audio/mpeg
+permalink: /episode/083
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/083-board_games.mp3
+  length: 12866098
+  mime_type: audio/mpeg
 categories:
-  - site news
+  - Family
+  - podcast
 ---
 This week we talk about our tradition of family board game night and why we started it.
 

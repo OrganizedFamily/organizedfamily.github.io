@@ -5,15 +5,12 @@ date: 2016-01-25T04:00:32+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=169
-permalink: /169
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/017-Contributing_Members.mp3
-    39223859
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:38:38";}
-interface_sidebarlayout:
-  - default
+permalink: /episode/017
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/017-Contributing_Members.mp3
+  length: 39223859
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:38:38";}
 categories:
   - Children
   - podcast

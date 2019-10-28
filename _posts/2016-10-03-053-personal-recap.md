@@ -5,15 +5,15 @@ date: 2016-10-03T04:00:22+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=410
-permalink: /410
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/053-recap_personal.mp3
-    7296792
-    audio/mpeg
+permalink: /episode/053
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/053-recap_personal.mp3
+  length: 7296792
+  mime_type: audio/mpeg
 image: /wp-content/uploads/2016/06/smart.jpg
 categories:
   - Personal
+  - podcast
 ---
 This month we reach the 1-year mark for the podcast. Because of that, we decided to do a recap of the year by topic. This week is the review of the personal categories.
 

@@ -5,7 +5,7 @@ date: 2017-09-18T04:00:24+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=559
-permalink: /559
+permalink: /episode/096
 podcast:
   link: http://traffic.libsyn.com/organizedfamily/096-theming_your_days.mp3
   length: 15153589

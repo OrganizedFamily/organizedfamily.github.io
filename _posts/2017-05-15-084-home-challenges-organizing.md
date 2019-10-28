@@ -5,14 +5,14 @@ date: 2017-05-15T04:00:42+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=515
-permalink: /515
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/084-challenges_to_being_organized.mp3
-    18320884
-    audio/mpeg
+permalink: /episode/084
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/084-challenges_to_being_organized.mp3
+  length: 18320884
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 This week we discuss the challenges to being organized.
 

@@ -5,13 +5,11 @@ date: 2016-08-29T04:00:40+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=374
-permalink: /374
+permalink: /episode/048
 podcast:
   link: http://traffic.libsyn.com/organizedfamily/048-organizing_chores_through_family_meetings.mp3
   length: 16802856
   mime_type: audio/mpeg
-interface_sidebarlayout:
-  - default
 image: /wp-content/uploads/2016/01/chores.jpg
 categories:
   - Home

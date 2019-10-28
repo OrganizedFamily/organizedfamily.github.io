@@ -5,14 +5,11 @@ date: 2016-04-04T04:00:31+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=243
-permalink: /243
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/027-Budget_Meeting.mp3
-    17229175
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/027
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/027-Budget_Meeting.mp3
+  length: 17229175
+  mime_type: audio/mpeg
 categories:
   - Finance
   - podcast

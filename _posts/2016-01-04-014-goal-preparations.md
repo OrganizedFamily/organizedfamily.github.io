@@ -5,15 +5,12 @@ date: 2016-01-04T04:00:27+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=152
-permalink: /152
-interface_sidebarlayout:
-  - default
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/014-Goal_Planning.mp3
-    24316091
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:23:07";}
+permalink: /episode/014
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/014-Goal_Planning.mp3
+  length: 24316091
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:23:07";}
 categories:
   - Personal
   - podcast

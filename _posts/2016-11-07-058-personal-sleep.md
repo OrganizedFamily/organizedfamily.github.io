@@ -5,14 +5,14 @@ date: 2016-11-07T04:00:49+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=425
-permalink: /425
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/58-sleep.mp3
-    17653821
-    audio/mpeg
+permalink: /episode/058
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/58-sleep.mp3
+  length: 17653821
+  mime_type: audio/mpeg
 categories:
   - Personal
+  - podcast
 ---
 This week we discuss how sleep can impact your overall health.
 

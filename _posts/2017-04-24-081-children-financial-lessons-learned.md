@@ -5,14 +5,14 @@ date: 2017-04-24T22:08:35+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=504
-permalink: /504
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/081-Children_lessons_learned.mp3
-    16782794
-    audio/mpeg
+permalink: /episode/081
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/081-Children_lessons_learned.mp3
+  length: 16782794
+  mime_type: audio/mpeg
 categories:
   - Children
+  - podcast
 ---
 This week we have four of our five children on to talk about what they have learned. Essentially it&#8217;s a test to see if what we think we are teaching is actually what we are teaching our children. Listen and see how we have done.
 

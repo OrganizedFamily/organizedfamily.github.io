@@ -5,14 +5,14 @@ date: 2017-02-13T04:00:32+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=468
-permalink: /468
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/072-family_room_homework.mp3
-    11710441
-    audio/mpeg
+permalink: /episode/072
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/072-family_room_homework.mp3
+  length: 11710441
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 This week we continue with part 3 of our 4 part series on organizing the family room. Specifically, we talk about organizing the homework area.
 

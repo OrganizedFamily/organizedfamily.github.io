@@ -5,14 +5,14 @@ date: 2017-06-05T04:00:53+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=525
-permalink: /525
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/087-automate_your_finances.mp3
-    12494951
-    audio/mpeg
+permalink: /episode/087
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/087-automate_your_finances.mp3
+  length: 12494951
+  mime_type: audio/mpeg
 categories:
   - Finance
+  - podcast
 ---
 This week we discuss how to automate your finances.
 

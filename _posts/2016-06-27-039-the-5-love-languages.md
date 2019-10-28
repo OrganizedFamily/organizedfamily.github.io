@@ -5,14 +5,11 @@ date: 2016-06-27T04:00:51+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=324
-permalink: /324
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/039-love_languages.mp3
-    17676391
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/039
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/039-love_languages.mp3
+  length: 17676391
+  mime_type: audio/mpeg
 categories:
   - Home
   - podcast

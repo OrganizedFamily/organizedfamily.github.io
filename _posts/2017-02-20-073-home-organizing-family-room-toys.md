@@ -5,14 +5,14 @@ date: 2017-02-20T14:55:29+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=470
-permalink: /470
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/073-family_room_toys.mp3
-    14121230
-    audio/mpeg
+permalink: /episode/073
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/073-family_room_toys.mp3
+  length: 14121230
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 We conclude our series on organizing your family room with a discussion on how we have organized the toys and games we use within our family room.
 

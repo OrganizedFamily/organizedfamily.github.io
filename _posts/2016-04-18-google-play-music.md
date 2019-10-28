@@ -6,8 +6,6 @@ author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=264
 permalink: /264
-interface_sidebarlayout:
-  - default
 categories:
   - site news
 ---

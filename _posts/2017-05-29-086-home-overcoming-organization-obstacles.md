@@ -5,14 +5,14 @@ date: 2017-05-29T04:00:59+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=523
-permalink: /523
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/086-overcoming_orginization_challenges_2.mp3
-    16785720
-    audio/mpeg
+permalink: /episode/086
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/086-overcoming_orginization_challenges_2.mp3
+  length: 16785720
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 You can get the full show notes by subscribing to our newsletter at <http://www.organizedfamily.co/>. Not only will you get the show notes, but you will also get access to tools that can help you organize trips, have more meaningful conversations at the dinner table and some sample chore charts you can use in your home.
 

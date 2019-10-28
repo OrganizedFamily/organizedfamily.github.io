@@ -5,16 +5,14 @@ date: 2016-06-20T04:00:07+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=321
-permalink: /321
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/038-dinner_conversations.mp3
-    14392903
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/038
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/038-dinner_conversations.mp3
+  length: 14392903
+  mime_type: audio/mpeg
 categories:
-  - Home
+  - Family
+  - podcast
 ---
 # 38: Dinner Conversations
 

@@ -5,16 +5,14 @@ date: 2016-05-02T04:00:09+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=273
-permalink: /273
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/031-ChildenFinances.mp3
-    14035966
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/031
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/031-ChildenFinances.mp3
+  length: 14035966
+  mime_type: audio/mpeg
 categories:
   - Children
+  - podcast
 ---
 ## Topics
 

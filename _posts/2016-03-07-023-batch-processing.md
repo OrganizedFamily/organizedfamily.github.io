@@ -5,16 +5,14 @@ date: 2016-03-07T04:00:42+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=215
-permalink: /215
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/023-Batch_Processing.mp3
-    10838996
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/023
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/023-Batch_Processing.mp3
+  length: 10838996
+  mime:type: audio/mpeg
 categories:
   - Finance
+  - podcast
 ---
 ### Topics
 

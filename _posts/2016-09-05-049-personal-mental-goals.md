@@ -5,17 +5,15 @@ date: 2016-09-05T04:00:52+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=379
-permalink: /379
-interface_sidebarlayout:
-  - default
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/049-personal_education.mp3
-    14172639
-    audio/mpeg
+permalink: /episode/049
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/049-personal_education.mp3
+  length: 14172639
+  mime_type: audio/mpeg
 image: /wp-content/uploads/2015/12/gratitude.jpg
 categories:
   - Personal
+  - podcast
 ---
 ## Topics
 

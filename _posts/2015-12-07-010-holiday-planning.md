@@ -5,15 +5,12 @@ date: 2015-12-07T04:00:42+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=123
-permalink: /123
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/010-HolidayActivityPlanning.mp3
-    20982866
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:19:38";}
-interface_sidebarlayout:
-  - default
+permalink: /episode/010
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/010-HolidayActivityPlanning.mp3
+  length: 20982866
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:19:38";}
 categories:
   - Home
   - podcast

@@ -5,14 +5,14 @@ date: 2017-01-23T04:00:07+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=458
-permalink: /458
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/069-car_trunk.mp3
-    13951121
-    audio/mpeg
+permalink: /episode/069
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/069-car_trunk.mp3
+  length: 13951121
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 We conclude our three-part series on how to organize your car by discussing how to organize your trunk area and a couple of philosophical ideas on why we organize things in our cars the way we do.
 

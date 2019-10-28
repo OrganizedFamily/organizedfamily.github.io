@@ -5,14 +5,11 @@ date: 2016-08-15T04:00:05+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=358
-permalink: /358
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/046-wills.mp3
-    14743571
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/046
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/046-wills.mp3
+  length: 14743571
+  mime_type: audio/mpeg
 categories:
   - Home
   - podcast

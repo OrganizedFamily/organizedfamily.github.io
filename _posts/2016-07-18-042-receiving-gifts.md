@@ -1,18 +1,15 @@
 ---
 id: 342
-title: '042: Love Languages: Receiving Gifts'
+title: '042: Home: Love Languages: Receiving Gifts'
 date: 2016-07-18T04:00:00+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=342
-permalink: /342
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/42-giving_gifts.mp3
-    14268352
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/042
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/42-giving_gifts.mp3
+  length: 14268352
+  mime_type: audio/mpeg
 categories:
   - Children
   - podcast

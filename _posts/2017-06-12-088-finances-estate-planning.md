@@ -5,14 +5,14 @@ date: 2017-06-12T04:00:46+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=528
-permalink: /528
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/088-estate_planning.mp3
-    14165116
-    audio/mpeg
+permalink: /episode/088
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/088-estate_planning.mp3
+  length: 14165116
+  mime_type: audio/mpeg
 categories:
   - Finance
+  - podcast
 ---
 Contrary to popular opinions, estate planning is not just for old people! This week we discuss why it&#8217;s important to have an estate plan even as a young couple and how you can get started.
 

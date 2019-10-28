@@ -1,20 +1,20 @@
 ---
 id: 288
-title: '033: Kids: Teaching Principles'
+title: '033: Children: Teaching Principles'
 date: 2016-05-16T04:00:10+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=288
-permalink: /288
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/033-Kids_principles.mp3
-    16540796
-    audio/mpeg
+permalink: /episode/033
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/033-Kids_principles.mp3
+  length: 16540796
+  mime_type: audio/mpeg
 interface_sidebarlayout:
   - default
 categories:
-  - site news
+  - Children
+  - podcast
 ---
 ## Topics
 

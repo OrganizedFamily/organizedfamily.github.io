@@ -5,14 +5,14 @@ date: 2016-10-31T04:00:17+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=422
-permalink: /422
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/057-family_celebrations.mp3
-    14864779
-    audio/mpeg
+permalink: /episode/057
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/057-family_celebrations.mp3
+  length: 14864779
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 In this episode we discuss how to celebrate small, medium and large accomplishments in your family.
 

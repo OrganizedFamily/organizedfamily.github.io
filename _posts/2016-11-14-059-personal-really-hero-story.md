@@ -5,14 +5,14 @@ date: 2016-11-14T04:00:32+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=428
-permalink: /428
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/059-the_stories_we_tell_ourselves.mp3
-    12517103
-    audio/mpeg
+permalink: /episode/059
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/059-the_stories_we_tell_ourselves.mp3
+  length: 12517103
+  mime_type: audio/mpeg
 categories:
   - Personal
+  - podcast
 ---
 In this week&#8217;s episode, we discuss how the stories we tell ourselves can impact our relations and feelings and how we can make changes in our lives by changing the stories we tell ourselves.
 

@@ -5,7 +5,7 @@ date: 2015-10-12T03:59:33+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=39
-permalink: /39
+permalink: //episode/001
 podcast:
   link: http://traffic.libsyn.com/organizedfamily/001-school_routines.mp3
   length: 21681320

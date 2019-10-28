@@ -5,14 +5,14 @@ date: 2017-05-22T04:00:56+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=519
-permalink: /519
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/085-overcoming_orginization_challenges.mp3
-    19392949
-    audio/mpeg
+permalink: /episode/085
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/085-overcoming_orginization_challenges.mp3
+  length: 19392949
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 This week we talk about how to overcome some of the challenges to getting organized.
 

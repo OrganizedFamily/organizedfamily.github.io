@@ -5,17 +5,15 @@ date: 2016-09-12T04:00:06+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=383
-permalink: /383
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/050-family_time.mp3
-    13110605
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/050
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/050-family_time.mp3
+  length: 13110605
+  mime_type: audio/mpeg
 image: /wp-content/uploads/2016/05/teenagers.jpg
 categories:
   - Children
+  - podcast
 ---
 # 50: Kids: Fun Family Recreation
 

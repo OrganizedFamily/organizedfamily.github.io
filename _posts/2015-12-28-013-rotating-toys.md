@@ -5,15 +5,12 @@ date: 2015-12-28T04:00:16+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=148
-permalink: /148
-interface_sidebarlayout:
-  - default
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/013-Rotating_Toys.mp3
-    16841726
-    audio/mpeg
-    a:1:{s:8:"duration";s:8:"00:15:19";}
+permalink: /episode/013
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/013-Rotating_Toys.mp3
+  length: 16841726
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:8:"00:15:19";}
 categories:
   - Children
   - podcast

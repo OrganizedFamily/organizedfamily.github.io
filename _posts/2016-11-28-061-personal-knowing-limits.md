@@ -5,14 +5,14 @@ date: 2016-11-28T04:00:32+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=434
-permalink: /434
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/061-know_your_limits.mp3
-    16640270
-    audio/mpeg
+permalink: /episode/061
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/061-know_your_limits.mp3
+  length: 16640270
+  mime_type: audio/mpeg
 categories:
   - Personal
+  - podcast
 ---
 ## Topics
 

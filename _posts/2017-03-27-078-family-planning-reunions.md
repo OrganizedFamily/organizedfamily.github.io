@@ -5,14 +5,14 @@ date: 2017-03-27T04:00:50+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=491
-permalink: /491
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/078-family_reunions.mp3
-    19710598
-    audio/mpeg
+permalink: /episode/078
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/078-family_reunions.mp3
+  length: 19710598
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 This week we discuss how to plan for family reunions.
 

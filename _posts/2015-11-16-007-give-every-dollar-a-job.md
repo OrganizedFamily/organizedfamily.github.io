@@ -5,17 +5,15 @@ date: 2015-11-16T04:00:09+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=111
-permalink: /111
-interface_sidebarlayout:
-  - default
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/007-give_every_dollar_a_job.mp3
-    25125468
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:23:57";}
+permalink: /episode/007
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/007-give_every_dollar_a_job.mp3
+  length: 25125468
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:23:57";}
 categories:
   - Finance
+  - podcast
 ---
 ## Topics
 

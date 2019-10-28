@@ -5,16 +5,14 @@ date: 2016-05-23T04:00:27+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=299
-permalink: /299
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/034-Finance-Emergency_Funds.mp3
-    13402340
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/034
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/034-Finance-Emergency_Funds.mp3
+  length: 13402340
+  mime_type: audio/mpeg
 categories:
-  - site news
+  - Finances
+  - podcast
 ---
 ## Topics
 

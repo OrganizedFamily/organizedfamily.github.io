@@ -5,15 +5,15 @@ date: 2017-08-28T04:00:40+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=550
-permalink: /550
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/093-personal_connections.mp3
-    11047140
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:09:17";}
+permalink: /episode/093
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/093-personal_connections.mp3
+  length: 11047140
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:09:17";}
 categories:
   - Personal
+  - podcast
 ---
 In this week&#8217;s episode, we discuss what you can do to keep track of important facts on people you interact with, how to organize them and some tips on when you should record them.
 

@@ -5,7 +5,7 @@ date: 2017-10-09T04:00:09+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=565
-permalink: /565
+permalink: /episode/097
 podcast: 
   link: http://traffic.libsyn.com/organizedfamily/097-flexible_thoughts.mp3
   length: 14313491

@@ -5,14 +5,14 @@ date: 2017-06-19T04:00:35+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=530
-permalink: /530
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/089-giving_back.mp3
-    15316593
-    audio/mpeg
+permalink: /episode/089
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/089-giving_back.mp3
+  length: 15316593
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 Saving money and organizing things is all well and good, but the activity that can bring some of the greatest happiness into your life and the lives of your family is sharing what you have and know with others. This week we discuss various ways you can give back to those around you.
 

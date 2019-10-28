@@ -5,14 +5,14 @@ date: 2017-03-13T04:00:35+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=479
-permalink: /479
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/076-after_the_photos_-_22017_9.41_PM.mp3
-    10593654
-    audio/mpeg
+permalink: /episode/076
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/076-after_the_photos_-_22017_9.41_PM.mp3
+  length: 10593654
+  mime_type: audio/mpeg
 categories:
   - Children
+  - podcast
 ---
 We continue our series on taking family photos. This week we talk about alternative things you can use the photos for besides just as the current family portrait on your wall.
 

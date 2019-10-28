@@ -5,7 +5,7 @@ date: 2015-10-26T04:00:43+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=80
-permalink: /80
+permalink: /episode/004
 interface_sidebarlayout:
   - default
 podcast:

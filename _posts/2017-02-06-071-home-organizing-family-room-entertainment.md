@@ -5,14 +5,14 @@ date: 2017-02-06T04:00:50+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=466
-permalink: /466
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/071-family_room_entertainment.mp3
-    15424427
-    audio/mpeg
+permalink: /episode/071
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/071-family_room_entertainment.mp3
+  length: 15424427
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 This week we continue with part 2 of our 4 part series on organizing the family room. Specifically, we talk about organizing the entertainment area.
 

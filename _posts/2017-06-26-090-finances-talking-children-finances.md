@@ -5,14 +5,14 @@ date: 2017-06-26T04:00:08+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=536
-permalink: /536
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/090-money_talk.mp3
-    16524495
-    audio/mpeg
+permalink: /episode/090
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/090-money_talk.mp3
+  length: 16524495
+  mime_type: audio/mpeg
 categories:
   - Finance
+  - podcast
 ---
 Next to the birds and the bees topic, the scariest thing to talk to your kids about is money. Learn how to make it easy in today&#8217;s podcast.
 

@@ -5,16 +5,14 @@ date: 2016-06-13T04:00:38+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=315
-permalink: /315
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/037-Stuff.mp3
-    
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/037
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/037-Stuff.mp3
+  length: 17229175
+  mime_type: audio/mpeg
 categories:
   - Finance
+  - podcast
 ---
 ## Topics
 

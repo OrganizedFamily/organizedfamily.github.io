@@ -5,14 +5,14 @@ date: 2016-12-05T04:00:59+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=437
-permalink: /437
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/062-meaningful_christmas.mp3
-    15890869
-    audio/mpeg
+permalink: /episode/062
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/062-meaningful_christmas.mp3
+  length: 15890869
+  mime_type: audio/mpeg
 categories:
   - Children
+  - podcast
 ---
 # 062: Kids: A More Meaningful Christmas
 

@@ -5,14 +5,14 @@ date: 2016-12-12T04:00:18+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=441
-permalink: /441
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/063-encouraging_giving.mp3
-    12382938
-    audio/mpeg
+permalink: /episode/063
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/063-encouraging_giving.mp3
+  length: 12382938
+  mime_type: audio/mpeg
 categories:
   - Children
+  - podcast
 ---
 We discuss how to teach children how to be givers by going through the EDGE method of teaching.
 

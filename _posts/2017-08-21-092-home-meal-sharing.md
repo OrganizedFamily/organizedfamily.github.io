@@ -5,15 +5,15 @@ date: 2017-08-21T04:00:40+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=546
-permalink: /546
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/092-meal_sharing.mp3
-    20700744
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:19:21";}
+permalink: /episode/092
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/092-meal_sharing.mp3
+  length: 20700744
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:19:21";}
 categories:
   - Home
+  - podcast
 ---
 One of the hardest things about preparing meals is coming up with an idea. There are times when even that doesn&#8217;t help because nothing sounds appealing. Yet there is a way around that: Sharing meals with others.
 

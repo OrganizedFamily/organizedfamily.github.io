@@ -5,14 +5,14 @@ date: 2016-12-19T04:00:07+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=445
-permalink: /445
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/064-gratitude.mp3
-    18842497
-    audio/mpeg
+permalink: /episode/064
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/064-gratitude.mp3
+  length: 18842497
+  mime_type: audio/mpeg
 categories:
   - Children
+  - podcast
 ---
 ## Topics
 

@@ -5,14 +5,14 @@ date: 2017-03-20T04:00:18+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=486
-permalink: /486
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/077-yard_cleanup.mp3
-    11409929
-    audio/mpeg
+permalink: /episode/077
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/077-yard_cleanup.mp3
+  length: 11409929
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 This week we talk about some strategies you can use to involve your family members in helping out in the yard. And Enjoy It!
 

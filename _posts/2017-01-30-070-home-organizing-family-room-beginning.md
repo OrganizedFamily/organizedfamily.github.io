@@ -5,14 +5,14 @@ date: 2017-01-30T04:00:57+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=462
-permalink: /462
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/070-family_room_beginnings.mp3
-    13111441
-    audio/mpeg
+permalink: /episode/070
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/070-family_room_beginnings.mp3
+  length: 13111441
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 In this episode, Dave and Amy talk about how their family room was one of their least favorite rooms to be in and what they did to make it one of their most used rooms now.
 

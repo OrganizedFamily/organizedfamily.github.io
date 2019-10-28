@@ -5,15 +5,15 @@ date: 2016-10-10T04:00:28+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=412
-permalink: /412
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/054-reacp_children.mp3
-    7172240
-    audio/mpeg
+permalink: /episode/054
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/054-reacp_children.mp3
+  length: 7172240
+  mime_type: audio/mpeg
 image: /wp-content/uploads/2016/03/cropped-6749689975_2393a32ba0_z.jpg
 categories:
   - Children
+  - podcast
 ---
 This month we reach the 1-year mark for the podcast. Because of that, we decided to do a recap of the year by topic. This week is the review of the children category.
 

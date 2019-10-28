@@ -5,14 +5,14 @@ date: 2017-03-06T04:00:28+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=477
-permalink: /477
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/075-taking_the_photo.mp3
-    13085109
-    audio/mpeg
+permalink: /episode/075
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/075-taking_the_photo.mp3
+  length: 13085109
+  mime_type: audio/mpeg
 categories:
   - Children
+  - podcast
 ---
 We continue our series on taking family photos. This week we talk about what you need to do in order to make the actual day of the photo shoot an enjoyable experience.
 

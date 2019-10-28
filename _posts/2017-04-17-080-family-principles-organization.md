@@ -5,14 +5,14 @@ date: 2017-04-17T04:00:13+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=501
-permalink: /501
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/080-principles.mp3
-    16270376
-    audio/mpeg
+permalink: /episode/080
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/080-principles.mp3
+  length: 16270376
+  mime_type: audio/mpeg
 categories:
-  - Home
+  - Family
+  - podcast
 ---
 Learn the 5 principles of organizing in this episode.
 

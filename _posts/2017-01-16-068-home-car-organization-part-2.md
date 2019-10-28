@@ -5,14 +5,14 @@ date: 2017-01-16T04:00:46+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=456
-permalink: /456
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/068-car_main_area.mp3
-    12899535
-    audio/mpeg
+permalink: /episode/068
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/068-car_main_area.mp3
+  length: 12899535
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 We continue our a three-part series on how to organize your car by discussing how to organize the main compartment of your car.
 

@@ -5,15 +5,12 @@ date: 2016-02-08T04:00:28+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=182
-permalink: /182
-interface_sidebarlayout:
-  - default
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/019-Teaching_Kids_About_Money.mp3
-    30750701
-    audio/mpeg
-    a:1:{s:8:"duration";s:8:"00:29:49";}
+permalink: /episdoe/019
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/019-Teaching_Kids_About_Money.mp3
+  length: 30750701
+  mime:type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:8:"00:29:49";}
 categories:
   - Children
   - Finance

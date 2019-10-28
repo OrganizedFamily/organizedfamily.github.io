@@ -5,16 +5,14 @@ date: 2016-02-29T04:00:08+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=208
-permalink: /208
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/022-pomodoro_technique.mp3
-    12103741
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/022
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/022-pomodoro_technique.mp3
+  length: 12103741
+  mime:type: audio/mpeg
 categories:
   - Personal
+  - podcast
 ---
 All too often there is more to do than we feel we have time. More often than not in these circumstances, we frantically try and do it all. We&#8217;ll write down all the things we need to accomplish on a list and gradually work our way down. For most small tasks, this works fine, but too often there are one or more larger tasks that sap our energy, sometimes even before we get to them because we know they are going to take a long time. That&#8217;s where the &#8220;tomato&#8221; (pomodoro in Italian) technique comes in.
 

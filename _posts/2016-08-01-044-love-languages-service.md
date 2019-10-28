@@ -1,20 +1,18 @@
 ---
 id: 351
-title: '044: Love Languages: Service'
+title: '044: Home: Love Languages: Service'
 date: 2016-08-01T04:00:44+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=351
-permalink: /351
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/044-service.mp3
-    10961040
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/044
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/044-service.mp3
+  length: 10961040
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 ## Topics
 

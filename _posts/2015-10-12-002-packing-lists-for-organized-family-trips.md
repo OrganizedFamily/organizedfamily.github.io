@@ -5,7 +5,7 @@ date: 2015-10-12T04:00:35+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=58
-permalink: /58
+permalink: /episode/002
 podcast:
   link: http://traffic.libsyn.com/organizedfamily/002-packing_lists.mp3
   length: 17967418

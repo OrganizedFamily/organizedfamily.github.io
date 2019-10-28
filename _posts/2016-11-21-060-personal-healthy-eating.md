@@ -5,14 +5,14 @@ date: 2016-11-21T04:00:22+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=432
-permalink: /432
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/060-healthy_meals.mp3
-    15683561
-    audio/mpeg
+permalink: /episode/060
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/060-healthy_meals.mp3
+  length: 15683561
+  mime_type: audio/mpeg
 categories:
   - Personal
+  - podcast
 ---
 ## Topics
 

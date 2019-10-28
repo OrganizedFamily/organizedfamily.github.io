@@ -5,14 +5,14 @@ date: 2017-01-09T04:00:51+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=454
-permalink: /454
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/067-cars.mp3
-    15406454
-    audio/mpeg
+permalink: /episode/067
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/067-cars.mp3
+  length: 15406454
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 We kick off a three-part series on how to organize your car by starting with the front of the car.
 

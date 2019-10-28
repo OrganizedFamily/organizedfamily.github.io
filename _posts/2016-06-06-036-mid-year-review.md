@@ -5,16 +5,14 @@ date: 2016-06-06T04:00:22+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=306
-permalink: /306
-interface_sidebarlayout:
-  - default
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/036-Personal-mid_year_review.mp3
-    13659385
-    audio/mpeg
+permalink: /episode/036
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/036-Personal-mid_year_review.mp3
+  length: 13659385
+  mime_type: audio/mpeg
 categories:
   - Personal
+  - podcast
 ---
 ## Topic
 

@@ -5,16 +5,14 @@ date: 2016-08-22T04:00:45+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=368
-permalink: /368
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/047-family_meetings.mp3
-    14964672
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/047
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/047-family_meetings.mp3
+  length: 14964672
+  mime_type: audio/mpeg
 categories:
   - Home
+  - podcast
 ---
 ## Topics
 

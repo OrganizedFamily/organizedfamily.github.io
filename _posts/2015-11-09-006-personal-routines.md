@@ -5,17 +5,17 @@ date: 2015-11-09T04:00:52+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=103
-permalink: /103
+permalink: /episode/006
 interface_sidebarlayout:
   - default
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/006-personal_routines.mp3
-    17468247
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:15:59";}
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/006-personal_routines.mp3
+  length: 17468247
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:15:59";}
 categories:
   - Personal
+  - podcast
 ---
 ## Outline
 

@@ -5,15 +5,15 @@ date: 2017-01-02T04:00:10+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=450
-permalink: /450
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/066-camping_gear.mp3
-    3235757
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:03:22";}
+permalink: /episode/066
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/066-camping_gear.mp3
+  length: 3235757
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:03:22";}
 categories:
   - Home
+  - podcast
 ---
 Our second quick tip for the season is about organizing categories. You can have zones and sub-zones, but categories are yet another way to divide your stuff and make it easier to get to and use when you need to. Specifically, Dave talks about how to use this as it applies to organizing camping gear.
 

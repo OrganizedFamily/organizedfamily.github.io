@@ -5,17 +5,17 @@ date: 2015-11-02T04:00:12+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=84
-permalink: /84
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/005-color_coding_children.mp3
-    12569765
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:10:52";}
+permalink: /episode/005
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/005-color_coding_children.mp3
+  length: 12569765
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:10:52";}
 interface_sidebarlayout:
   - default
 categories:
-  - site news
+  - Children
+  - podcast
 ---
 ## Outline
 

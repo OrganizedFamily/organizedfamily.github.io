@@ -5,16 +5,14 @@ date: 2016-03-28T04:00:50+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=238
-permalink: /238
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/026-Random_Tips.mp3
-    19345720
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/026
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/026-Random_Tips.mp3
+  length: 19345720
+  mime_type: audio/mpeg
 categories:
   - Personal
+  - podcast
 ---
 This week contains an assortment of tips and tricks to keep yourself more organized.
 

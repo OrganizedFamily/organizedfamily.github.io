@@ -6,14 +6,11 @@ author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=175
 permalink: /175
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/018-Executing_Goals.mp3
-    20226360
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:18:51";}
-interface_sidebarlayout:
-  - default
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/018-Executing_Goals.mp3
+  length: 20226360
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:18:51";}
 categories:
   - Personal
   - podcast

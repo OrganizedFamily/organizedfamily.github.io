@@ -5,14 +5,14 @@ date: 2017-04-10T04:00:03+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=496
-permalink: /496
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/079-breaking_tasks_down.mp3
-    10285200
-    audio/mpeg
+permalink: /episode/079
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/079-breaking_tasks_down.mp3
+  length: 10285200
+  mime_type: audio/mpeg
 categories:
-  - site news
+  - Personal
+  - podcast
 ---
 You can get the full show notes by subscribing to our newsletter at <http://www.organizedfamily.co/>. Not only will you get the show notes, but you will also get access to tools that can help you organize trips, have more meaningful conversations at the dinner table and some sample chore charts you can use in your home.
 

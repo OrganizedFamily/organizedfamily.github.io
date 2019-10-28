@@ -5,7 +5,7 @@ date: 2017-09-04T04:00:03+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=553
-permalink: /553
+permalink: /episode/094
 podcast:
   link: http://traffic.libsyn.com/organizedfamily/094-calendar.mp3
   length: 19637873
@@ -13,6 +13,7 @@ podcast:
   duration: a:1:{s:8:"duration";s:7:"0:18:14";}
 categories:
   - Personal
+  - podcast
 ---
 This week we talk about the different calendar systems out there and how we use them personally and in our family.
 

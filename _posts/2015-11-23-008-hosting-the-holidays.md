@@ -5,15 +5,12 @@ date: 2015-11-23T04:00:39+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=114
-permalink: /114
+permalink: /episode/008
 enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/008-hosting_the_holidays.mp3
-    21367389
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:20:02";}
-interface_sidebarlayout:
-  - default
+  link: http://traffic.libsyn.com/organizedfamily/008-hosting_the_holidays.mp3
+  length: 21367389
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:20:02";}
 categories:
   - Home
   - podcast

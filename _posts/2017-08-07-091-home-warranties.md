@@ -5,15 +5,15 @@ date: 2017-08-07T04:00:44+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=541
-permalink: /541
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/091-warranties.mp3
-    13262742
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:11:36";}
+permalink: /episode/091
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/091-warranties.mp3
+  length: 13262742
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:11:36";}
 categories:
-  - site news
+  - Home
+  - podcast
 ---
 This week we return from our summer vacation and discuss warranties. How Dave and Amy are different in how they organize warranties and why it still works.
 

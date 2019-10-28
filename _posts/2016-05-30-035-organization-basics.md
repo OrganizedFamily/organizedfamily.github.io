@@ -5,16 +5,14 @@ date: 2016-05-30T04:00:03+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=303
-permalink: /303
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/035-orginization_basics.mp3
-    11854637
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/035
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/035-orginization_basics.mp3
+  length: 11854637
+  mime_type: audio/mpeg
 categories:
-  - Uncategorized
+  - Bonus
+  - podcast
 ---
 ## Topics
 

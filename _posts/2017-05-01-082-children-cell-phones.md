@@ -5,14 +5,14 @@ date: 2017-05-01T04:00:42+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=508
-permalink: /508
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/082-cell_phones.mp3
-    17378804
-    audio/mpeg
+permalink: /episode/082
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/082-cell_phones.mp3
+  length: 17378804
+  mime_type: audio/mpeg
 categories:
   - Children
+  - podcast
 ---
 This week we talk about the importance of collecting children&#8217;s electronics at night.
 

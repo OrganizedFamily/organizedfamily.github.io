@@ -5,16 +5,14 @@ date: 2016-04-25T04:00:16+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=266
-permalink: /266
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/030-Recharging.mp3
-    31301443
-    audio/mpeg
-interface_sidebarlayout:
-  - default
+permalink: /episode/030
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/030-Recharging.mp3
+  length: 31301443
+  mime_type: audio/mpeg
 categories:
   - Personal
+  - podcast
 ---
 ## Topics
 

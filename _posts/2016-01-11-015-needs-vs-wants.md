@@ -5,15 +5,12 @@ date: 2016-01-11T04:00:35+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=154
-permalink: /154
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/15-NeedsVsWants.mp3
-    25151591
-    audio/mpeg
-    a:1:{s:8:"duration";s:7:"0:23:59";}
-interface_sidebarlayout:
-  - default
+permalink: /episode/015
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/15-NeedsVsWants.mp3
+  length: 25151591
+  mime_type: audio/mpeg
+  duration: a:1:{s:8:"duration";s:7:"0:23:59";}
 categories:
   - Finance
   - podcast

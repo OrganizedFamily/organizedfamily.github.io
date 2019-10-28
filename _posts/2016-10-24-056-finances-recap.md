@@ -5,14 +5,14 @@ date: 2016-10-24T04:00:19+00:00
 author: Dave
 layout: single
 guid: http://organizedfamily.co/?p=417
-permalink: /417
-enclosure:
-  - |
-    http://traffic.libsyn.com/organizedfamily/056-recap_finances.mp3
-    6750102
-    audio/mpeg
+permalink: /episode/056
+podcast:
+  link: http://traffic.libsyn.com/organizedfamily/056-recap_finances.mp3
+  length: 6750102
+  mime_type: audio/mpeg
 categories:
   - Finance
+  - podcast
 ---
 This month we reach the 1-year mark for the podcast. Because of that, we decided to do a recap of the year by topic. This week is the review of the finance category.
 
