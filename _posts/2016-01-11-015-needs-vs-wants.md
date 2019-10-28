@@ -10,7 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/15-NeedsVsWants.mp3
   length: 25151591
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:7:"0:23:59";}
+  duration: "0:23:59"
 categories:
   - Finance
   - podcast

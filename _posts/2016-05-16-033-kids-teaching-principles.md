@@ -10,8 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/033-Kids_principles.mp3
   length: 16540796
   mime_type: audio/mpeg
-interface_sidebarlayout:
-  - default
+  duration: "00:15:01"
 categories:
   - Children
   - podcast

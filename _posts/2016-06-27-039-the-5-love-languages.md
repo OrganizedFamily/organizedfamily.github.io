@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/039-love_languages.mp3
   length: 17676391
   mime_type: audio/mpeg
+  duration: "00:16:12"
 categories:
   - Home
   - podcast

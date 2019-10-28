@@ -10,7 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/091-warranties.mp3
   length: 13262742
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:7:"0:11:36";}
+  duration: "0:11:36"
 categories:
   - Home
   - podcast

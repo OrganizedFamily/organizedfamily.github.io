@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/038-dinner_conversations.mp3
   length: 14392903
   mime_type: audio/mpeg
+  duration: "00:12:47"
 categories:
   - Family
   - podcast

@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/049-personal_education.mp3
   length: 14172639
   mime_type: audio/mpeg
+  duration: "00:12:33"
 image: /wp-content/uploads/2015/12/gratitude.jpg
 categories:
   - Personal

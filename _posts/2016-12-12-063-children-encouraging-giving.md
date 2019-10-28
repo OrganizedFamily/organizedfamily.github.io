@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/063-encouraging_giving.mp3
   length: 12382938
   mime_type: audio/mpeg
+  duration: "00:10:41"
 categories:
   - Children
   - podcast

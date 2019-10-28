@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/026-Random_Tips.mp3
   length: 19345720
   mime_type: audio/mpeg
+  duration: "00:17:56"
 categories:
   - Personal
   - podcast

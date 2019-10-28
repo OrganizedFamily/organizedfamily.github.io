@@ -10,7 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/065-cleaning_up.mp3
   length: 2413213
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:7:"0:02:31";}
+  duration: "0:02:31"
 categories:
   - Home
   - podcast

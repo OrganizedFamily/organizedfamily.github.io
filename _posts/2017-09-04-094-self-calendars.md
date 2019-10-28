@@ -10,7 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/094-calendar.mp3
   length: 19637873
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:7:"0:18:14";}
+  duration: "0:18:14"
 categories:
   - Personal
   - podcast

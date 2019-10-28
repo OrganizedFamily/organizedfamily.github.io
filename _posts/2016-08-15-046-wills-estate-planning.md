@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/046-wills.mp3
   length: 14743571
   mime_type: audio/mpeg
+  duration: "00:13:09"
 categories:
   - Home
   - podcast

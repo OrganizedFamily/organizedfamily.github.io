@@ -9,8 +9,8 @@ permalink: /episdoe/019
 podcast:
   link: http://traffic.libsyn.com/organizedfamily/019-Teaching_Kids_About_Money.mp3
   length: 30750701
-  mime:type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:8:"00:29:49";}
+  mime_type: audio/mpeg
+  duration: "00:29:49"
 categories:
   - Children
   - Finance

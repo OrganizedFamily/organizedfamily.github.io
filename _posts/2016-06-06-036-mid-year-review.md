@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/036-Personal-mid_year_review.mp3
   length: 13659385
   mime_type: audio/mpeg
+  duration: "00:12:01"
 categories:
   - Personal
   - podcast

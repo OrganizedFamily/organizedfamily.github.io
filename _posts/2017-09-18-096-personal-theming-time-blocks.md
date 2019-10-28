@@ -10,7 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/096-theming_your_days.mp3
   length: 15153589
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:7:"0:13:34";}
+  duration: "0:13:34"
 categories:
   - Personal
   - podcast

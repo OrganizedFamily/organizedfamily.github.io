@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/060-healthy_meals.mp3
   length: 15683561
   mime_type: audio/mpeg
+  duration: "00:14:08"
 categories:
   - Personal
   - podcast

@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/054-reacp_children.mp3
   length: 7172240
   mime_type: audio/mpeg
+  duration: "00:05:16"
 image: /wp-content/uploads/2016/03/cropped-6749689975_2393a32ba0_z.jpg
 categories:
   - Children

@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/030-Recharging.mp3
   length: 31301443
   mime_type: audio/mpeg
+  duration: "00:15:48"
 categories:
   - Personal
   - podcast

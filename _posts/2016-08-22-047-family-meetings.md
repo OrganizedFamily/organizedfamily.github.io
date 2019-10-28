@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/047-family_meetings.mp3
   length: 14964672
   mime_type: audio/mpeg
+  duration: "00:13:23"
 categories:
   - Home
   - podcast

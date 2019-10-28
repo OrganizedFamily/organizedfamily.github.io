@@ -10,7 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/093-personal_connections.mp3
   length: 11047140
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:7:"0:09:17";}
+  duration: "0:09:17"
 categories:
   - Personal
   - podcast

@@ -10,7 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/005-color_coding_children.mp3
   length: 12569765
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:7:"0:10:52";}
+  duration: "0:10:52"
 interface_sidebarlayout:
   - default
 categories:

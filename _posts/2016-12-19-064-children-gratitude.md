@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/064-gratitude.mp3
   length: 18842497
   mime_type: audio/mpeg
+  duration: "00:17:25"
 categories:
   - Children
   - podcast

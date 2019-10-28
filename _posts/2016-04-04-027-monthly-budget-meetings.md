@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/027-Budget_Meeting.mp3
   length: 17229175
   mime_type: audio/mpeg
+  duration: "00:15:44"
 categories:
   - Finance
   - podcast

@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/031-ChildenFinances.mp3
   length: 14035966
   mime_type: audio/mpeg
+  duration: "00:12:25"
 categories:
   - Children
   - podcast

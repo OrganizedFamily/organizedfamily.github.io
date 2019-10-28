@@ -12,7 +12,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/004-meal_planning.mp3
   length: 24489222
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:7:"0:23:17";}
+  duration: "0:23:17"
 categories:
   - Home
   - podcast

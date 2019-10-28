@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/059-the_stories_we_tell_ourselves.mp3
   length: 12517103
   mime_type: audio/mpeg
+  duration: "00:10:50"
 categories:
   - Personal
   - podcast

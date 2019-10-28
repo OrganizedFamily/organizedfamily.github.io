@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/050-family_time.mp3
   length: 13110605
   mime_type: audio/mpeg
+  duration: "00:11:27"
 image: /wp-content/uploads/2016/05/teenagers.jpg
 categories:
   - Children

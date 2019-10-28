@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/048-organizing_chores_through_family_meetings.mp3
   length: 16802856
   mime_type: audio/mpeg
+  duration: "00:15:18"
 image: /wp-content/uploads/2016/01/chores.jpg
 categories:
   - Home

@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/044-service.mp3
   length: 10961040
   mime_type: audio/mpeg
+  duration: "00:09:12"
 categories:
   - Home
   - podcast

@@ -10,7 +10,7 @@ enclosure:
   link: http://traffic.libsyn.com/organizedfamily/008-hosting_the_holidays.mp3
   length: 21367389
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:7:"0:20:02";}
+  duration: "0:20:02"
 categories:
   - Home
   - podcast

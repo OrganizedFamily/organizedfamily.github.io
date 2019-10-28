@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/58-sleep.mp3
   length: 17653821
   mime_type: audio/mpeg
+  duration: "00:16:11"
 categories:
   - Personal
   - podcast

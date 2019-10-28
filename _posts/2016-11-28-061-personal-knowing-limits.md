@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/061-know_your_limits.mp3
   length: 16640270
   mime_type: audio/mpeg
+  duration: "00:15:07"
 categories:
   - Personal
   - podcast

@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/053-recap_personal.mp3
   length: 7296792
   mime_type: audio/mpeg
+  duration: "00:05:23"
 image: /wp-content/uploads/2016/06/smart.jpg
 categories:
   - Personal

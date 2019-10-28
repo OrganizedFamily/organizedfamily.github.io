@@ -10,7 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/097-flexible_thoughts.mp3
   length: 14313491
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:7:"0:12:41";}
+  duration: "0:12:41"
 categories:
   - Children
   - podcast

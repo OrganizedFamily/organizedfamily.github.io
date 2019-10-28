@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/062-meaningful_christmas.mp3
   length: 15890869
   mime_type: audio/mpeg
+  duration: "00:14:21"
 categories:
   - Children
   - podcast

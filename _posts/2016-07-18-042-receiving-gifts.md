@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/42-giving_gifts.mp3
   length: 14268352
   mime_type: audio/mpeg
+  duration: "00:12:39"
 categories:
   - Children
   - podcast

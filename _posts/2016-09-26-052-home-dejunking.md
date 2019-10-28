@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/052-dejunking.mp3
   length: 14242856
   mime_type: audio/mpeg
+  duration: "00:12:38"
 categories:
   - Home
   - podcast

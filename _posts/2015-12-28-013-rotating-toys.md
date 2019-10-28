@@ -10,7 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/013-Rotating_Toys.mp3
   length: 16841726
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:8:"00:15:19";}
+  duration: "00:15:19"
 categories:
   - Children
   - podcast

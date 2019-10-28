@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/040-words_of_affirmation.mp3
   length: 7839721
   mime_type: audio/mpeg
+  duration: "00:05:57"
 categories:
   - Home
   - podcast

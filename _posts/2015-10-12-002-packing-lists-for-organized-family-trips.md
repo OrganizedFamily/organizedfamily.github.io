@@ -10,7 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/002-packing_lists.mp3
   length: 17967418
   mime_type: audio/mpeg
-  duration: a:2:{s:8:"duration";s:7:"0:16:30";s:8:"subtitle";s:58:"The Mitchells share how to pack for organized family trips";}
+  duration: "0:16:30"
 interface_sidebarlayout:
   - default
 categories:

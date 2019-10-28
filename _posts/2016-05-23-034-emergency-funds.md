@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/034-Finance-Emergency_Funds.mp3
   length: 13402340
   mime_type: audio/mpeg
+  duration: "00:11:45"
 categories:
   - Finances
   - podcast

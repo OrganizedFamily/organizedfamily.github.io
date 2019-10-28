@@ -9,7 +9,8 @@ permalink: /episode/022
 podcast:
   link: http://traffic.libsyn.com/organizedfamily/022-pomodoro_technique.mp3
   length: 12103741
-  mime:type: audio/mpeg
+  mime_type: audio/mpeg
+  duration: "00:10:24"
 categories:
   - Personal
   - podcast

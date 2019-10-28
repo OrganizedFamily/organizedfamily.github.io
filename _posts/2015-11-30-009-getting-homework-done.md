@@ -10,7 +10,7 @@ podcastß:
   link: http://traffic.libsyn.com/organizedfamily/009-Getting_Homework_Done.mp3
   length: 20654350
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:7:"0:19:18";}
+  duration: "0:19:18"
 categories:
   - Children
   - podcast

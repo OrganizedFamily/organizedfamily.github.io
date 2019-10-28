@@ -10,7 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/017-Contributing_Members.mp3
   length: 39223859
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:7:"0:38:38";}
+  duration: "0:38:38"
 categories:
   - Children
   - podcast

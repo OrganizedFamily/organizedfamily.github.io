@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/035-orginization_basics.mp3
   length: 11854637
   mime_type: audio/mpeg
+  duration: "00:10:08"
 categories:
   - Bonus
   - podcast

@@ -11,17 +11,17 @@ interface_sidebarlayout:
 categories:
   - site news
 ---
-Well, it&#8217;s time for the weekly update for the Organize Family podcast and how things are going here. Overall, things are going well. We&#8217;re figuring out how to get show notes typed up and ready for the shows, figuring out the schedule, and getting things in people’s hands faster. And we&#8217;re enjoying the journey.
+Well, it's time for the weekly update for the Organize Family podcast and how things are going here. Overall, things are going well. We're figuring out how to get show notes typed up and ready for the shows, figuring out the schedule, and getting things in people’s hands faster. And we're enjoying the journey.
 
 So far we have four episodes out which means episodes 0,1,2 and 3 are in people’s hands. That makes us both excited and a bit anxious putting ourselves out there like that.
 
-We had some questions come up about how to rate and review the podcasts if someone doesn&#8217;t have an iTunes account. We&#8217;re not sure. However we&#8217;ve also noticed that some of the download stats are looking good, so we are encouraged by the amount of people that are being able to listen to some of the things we’ve put out there so far. We have links here on the website that hopefully people can use to subscribe outside of iTunes and listen to the podcast outside of iTunes.
+We had some questions come up about how to rate and review the podcasts if someone doesn't have an iTunes account. We're not sure. However we've also noticed that some of the download stats are looking good, so we are encouraged by the amount of people that are being able to listen to some of the things we’ve put out there so far. We have links here on the website that hopefully people can use to subscribe outside of iTunes and listen to the podcast outside of iTunes.
 
 Amy posted to Facebook asking for some feedback on some podcasts and based on those responses, we can make improvements to the podcasts to make them that much better.
 
 Dave is looking to see how he can reach more people and get the word out more about how the podcast can help families.
 
-Finally, we&#8217;re looking forward to this week’s podcast which will feature a guest, Amy Roskelley, who runs the blog superhealthykids.com. The three of us discuss how being organized can help provide healthy meals for families without taking too much time or effort. It was a great discussion and we look forward to releasing it on Monday.
+Finally, we're looking forward to this week’s podcast which will feature a guest, Amy Roskelley, who runs the blog superhealthykids.com. The three of us discuss how being organized can help provide healthy meals for families without taking too much time or effort. It was a great discussion and we look forward to releasing it on Monday.
 
 <div class='sfsi_Sicons' style='width: 100%; display: inline-block; vertical-align: middle; text-align:left'>
   <div style='margin:0px 8px 0px 0px; line-height: 24px'>

@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/057-family_celebrations.mp3
   length: 14864779
   mime_type: audio/mpeg
+  duration: "00:13:16"
 categories:
   - Home
   - podcast

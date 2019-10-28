@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/056-recap_finances.mp3
   length: 6750102
   mime_type: audio/mpeg
+  duration: "00:04:49"
 categories:
   - Finance
   - podcast

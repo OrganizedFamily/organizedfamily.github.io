@@ -9,7 +9,8 @@ permalink: /episode/023
 podcast:
   link: http://traffic.libsyn.com/organizedfamily/023-Batch_Processing.mp3
   length: 10838996
-  mime:type: audio/mpeg
+  mime_type: audio/mpeg
+  duration: "00:09:05"
 categories:
   - Finance
   - podcast

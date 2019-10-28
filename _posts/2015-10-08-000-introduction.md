@@ -10,9 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/000-introduction.mp3
   length: 13981412
   mime_type: audio/mpeg
-  duration: 
-interface_sidebarlayout:
-  - default
+  duration: "00:12:21"
 categories:
   - podcast
 ---
@@ -41,7 +39,7 @@ A brief introduction to the Mitchells, the hosts of the Organized Family podcast
 ### Us
 
   * We met in college, married for almost 20 years. 
-  * Five children. Red, Blue, Green, Yellow and Purple (That&#8217;s episode 5)
+  * Five children. Red, Blue, Green, Yellow and Purple (That's episode 5)
   * We have very different backgrounds and hobbies, but we’re both organized
 
 ## Why did we start the podcast?
@@ -54,7 +52,7 @@ A brief introduction to the Mitchells, the hosts of the Organized Family podcast
 ## Goal for podcast
 
   * Share what we know
-  * It&#8217;s not just moms that need to be involved, but dads too. You cannot be successful as a couple or a family unless both parents are involved. You can have different focus&#8217; but you are a team
+  * It's not just moms that need to be involved, but dads too. You cannot be successful as a couple or a family unless both parents are involved. You can have different focus' but you are a team
   * Podcast Angle: to point out that all members of family contribute to being organized, not just the mom
 
 ## Why do we think organization is important?
@@ -72,9 +70,9 @@ A brief introduction to the Mitchells, the hosts of the Organized Family podcast
 
 Frequency: Once a week
 
-Length: We&#8217;re shooting for about 20 minute long podcasts
+Length: We're shooting for about 20 minute long podcasts
 
-The quote &#8220;Organization saves time&#8221; came from the movie [&#8220;The Most Wonderful Time of the Year&#8221;](http://www.imdb.com/title/tt1327788/). The name of the book about tidying up is [&#8220;The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing&#8221;](http://www.amazon.com/gp/product/1607747308/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1607747308&linkCode=as2&tag=digitalbias-20)
+The quote "Organization saves time" came from the movie ["The Most Wonderful Time of the Year"](http://www.imdb.com/title/tt1327788/). The name of the book about tidying up is ["The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing"](http://www.amazon.com/gp/product/1607747308/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1607747308&linkCode=as2&tag=digitalbias-20)
 
 <div class="powerpress_player" id="powerpress_player_5321">
   <!--[if lt IE 9]><![endif]--><audio class="wp-audio-shortcode" id="audio-36-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://traffic.libsyn.com/organizedfamily/000-introduction.mp3?_=1" />

@@ -10,7 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/014-Goal_Planning.mp3
   length: 24316091
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:7:"0:23:07";}
+  duration: "0:23:07"
 categories:
   - Personal
   - podcast

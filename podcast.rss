@@ -64,7 +64,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 
         <enclosure url="{{ ep.podcast.link }}" length="{{ ep.podcast.length }}" type="{{ ep.podcast.mime_type }}" />
         <itunes:title>{{ ep.title }}</itunes:title>
-        <itunes:duration>{{ ep.duration }}</itunes:duration>
+        <itunes:duration>{{ ep.podcast.duration }}</itunes:duration>
         <itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
         <itunes:summary><![CDATA[{{ ep.content | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
         <itunes:author>{{ site.podcast_author }}</itunes:author>

@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/051-challenging_activities.mp3
   length: 15066654
   mime_type: audio/mpeg
+  duration: "00:13:29"
 categories:
   - Children
   - podcast

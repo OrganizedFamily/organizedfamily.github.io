@@ -10,7 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/066-camping_gear.mp3
   length: 3235757
   mime_type: audio/mpeg
-  duration: a:1:{s:8:"duration";s:7:"0:03:22";}
+  duration: "0:03:22"
 categories:
   - Home
   - podcast
