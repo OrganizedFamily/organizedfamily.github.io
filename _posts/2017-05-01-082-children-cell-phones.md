@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/082-cell_phones.mp3
   length: 17378804
   mime_type: audio/mpeg
+  duration: "00:15:54"
 categories:
   - Children
   - podcast

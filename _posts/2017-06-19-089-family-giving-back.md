@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/089-giving_back.mp3
   length: 15316593
   mime_type: audio/mpeg
+  duration: "00:13:45"
 categories:
   - Home
   - podcast

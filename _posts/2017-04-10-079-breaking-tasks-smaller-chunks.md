@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/079-breaking_tasks_down.mp3
   length: 10285200
   mime_type: audio/mpeg
+  duration: "00:08:30"
 categories:
   - Personal
   - podcast

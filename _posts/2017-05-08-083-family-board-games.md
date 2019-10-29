@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/083-board_games.mp3
   length: 12866098
   mime_type: audio/mpeg
+  duration: "00:11:11"
 categories:
   - Family
   - podcast

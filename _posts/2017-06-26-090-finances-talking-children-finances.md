@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/090-money_talk.mp3
   length: 16524495
   mime_type: audio/mpeg
+  duration: "00:15:00"
 categories:
   - Finance
   - podcast

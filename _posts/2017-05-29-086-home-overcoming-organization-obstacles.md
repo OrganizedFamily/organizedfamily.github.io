@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/086-overcoming_orginization_challenges_2.mp3
   length: 16785720
   mime_type: audio/mpeg
+  duration: "00:15:16"
 categories:
   - Home
   - podcast

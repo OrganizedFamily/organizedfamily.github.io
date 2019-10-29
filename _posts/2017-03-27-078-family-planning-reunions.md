@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/078-family_reunions.mp3
   length: 19710598
   mime_type: audio/mpeg
+  duration: "00:18:19"
 categories:
   - Home
   - podcast

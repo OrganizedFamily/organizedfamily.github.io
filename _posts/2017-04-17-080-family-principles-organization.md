@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/080-principles.mp3
   length: 16270376
   mime_type: audio/mpeg
+  duration: "00:14:44"
 categories:
   - Family
   - podcast

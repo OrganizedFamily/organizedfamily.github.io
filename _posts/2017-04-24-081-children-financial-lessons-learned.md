@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/081-Children_lessons_learned.mp3
   length: 16782794
   mime_type: audio/mpeg
+  duration: "00:15:16"
 categories:
   - Children
   - podcast

@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/087-automate_your_finances.mp3
   length: 12494951
   mime_type: audio/mpeg
+  duration: "00:10:48"
 categories:
   - Finance
   - podcast

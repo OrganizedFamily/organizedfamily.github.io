@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/084-challenges_to_being_organized.mp3
   length: 18320884
   mime_type: audio/mpeg
+  duration: "00:08:38"
 categories:
   - Home
   - podcast

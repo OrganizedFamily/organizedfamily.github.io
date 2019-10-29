@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/088-estate_planning.mp3
   length: 14165116
   mime_type: audio/mpeg
+  duration: "00:12:33"
 categories:
   - Finance
   - podcast
