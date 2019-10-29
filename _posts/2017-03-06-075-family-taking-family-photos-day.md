@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/075-taking_the_photo.mp3
   length: 13085109
   mime_type: audio/mpeg
+  duration: "00:11:25"
 categories:
   - Children
   - podcast

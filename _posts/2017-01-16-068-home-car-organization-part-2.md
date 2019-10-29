@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/068-car_main_area.mp3
   length: 12899535
   mime_type: audio/mpeg
+  duration: "00:11:14"
 categories:
   - Home
   - podcast

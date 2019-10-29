@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/077-yard_cleanup.mp3
   length: 11409929
   mime_type: audio/mpeg
+  duration: "00:09:40"
 categories:
   - Home
   - podcast

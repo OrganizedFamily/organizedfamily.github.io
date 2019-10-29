@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/069-car_trunk.mp3
   length: 13951121
   mime_type: audio/mpeg
+  duration: "00:12:19"
 categories:
   - Home
   - podcast

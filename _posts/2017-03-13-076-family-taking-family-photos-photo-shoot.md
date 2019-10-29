@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/076-after_the_photos_-_22017_9.41_PM.mp3
   length: 10593654
   mime_type: audio/mpeg
+  duration: "00:08:49"
 categories:
   - Children
   - podcast

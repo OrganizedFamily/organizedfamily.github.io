@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/071-family_room_entertainment.mp3
   length: 15424427
   mime_type: audio/mpeg
+  duration: "00:13:51"
 categories:
   - Home
   - podcast

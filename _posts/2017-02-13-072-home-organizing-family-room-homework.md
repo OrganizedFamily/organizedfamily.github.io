@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/072-family_room_homework.mp3
   length: 11710441
   mime_type: audio/mpeg
+  duration: "00:09:59"
 categories:
   - Home
   - podcast

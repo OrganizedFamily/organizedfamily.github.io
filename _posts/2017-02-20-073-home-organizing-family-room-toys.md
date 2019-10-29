@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/073-family_room_toys.mp3
   length: 14121230
   mime_type: audio/mpeg
+  duration: "00:12:30"
 categories:
   - Home
   - podcast

@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/067-cars.mp3
   length: 15406454
   mime_type: audio/mpeg
+  duration: "00:13:50"
 categories:
   - Home
   - podcast

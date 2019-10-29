@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/070-family_room_beginnings.mp3
   length: 13111441
   mime_type: audio/mpeg
+  duration: "00:11:27"
 categories:
   - Home
   - podcast

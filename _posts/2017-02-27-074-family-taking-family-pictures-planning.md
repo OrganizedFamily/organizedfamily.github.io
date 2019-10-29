@@ -10,6 +10,7 @@ podcast:
   link: http://traffic.libsyn.com/organizedfamily/074-before_the_family_photo.mp3
   length: 11741788
   mime_type: audio/mpeg
+  duration: "00:10:01"
 categories:
   - Children
   - podcast
