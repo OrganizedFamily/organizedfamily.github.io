@@ -30,6 +30,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
         <itunes:name>{{ site.podcast_owner }}</itunes:name>
         <itunes:email>{{ site.podcast_email }}</itunes:email>
     </itunes:owner>
+    <itunes:type>episodic</itunes:type>
     <managingEditor>{{ site.podcast_email }} ({{ site.podcast_owner }})</managingEditor>
     <itunes:subtitle>{{ site.podcast_subtitle }}</itunes:subtitle>
     <image>
