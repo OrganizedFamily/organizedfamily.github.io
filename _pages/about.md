@@ -9,6 +9,9 @@ guid: http://organizedfamily.co/?page_id=293
 interface_sidebarlayout:
   - default
 ---
+
+<image title="The Mitchell Family" alt="Mitchell Family Photo" src="/images/family_photo.jpg"/>
+
 The Organized Family was started as a podcast by Dave and Amy Mitchell in September of 2015. Since that time they have shared their experience in raising children, organizing their family finances and keeping their home running.
 
 Here&#8217;s a little about each of us and our goals for the podcast.
