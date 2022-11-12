@@ -65,9 +65,9 @@ include:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-256389-4
+    tracking_id          : G-R1BKRKW7D6
 
 
 # Plugins (previously gems:)
